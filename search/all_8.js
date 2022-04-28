@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['jc',['jc',['../structsmat.html#aaf30721daf276e4f24bcffc3f955228c',1,'smat']]]
+  ['jc_36',['jc',['../structsmat.html#a66dc54149894f7ade2cc2594005e3f1a',1,'smat']]]
 ];

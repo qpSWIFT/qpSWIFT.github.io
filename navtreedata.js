@@ -1,7 +1,30 @@
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this file.
+
+Copyright (C) 1997-2019 by Dimitri van Heesch
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of version 2 of the GNU General Public License as published by
+the Free Software Foundation
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+@licend  The above is the entire license notice
+for the JavaScript code in this file
+*/
 var NAVTREE =
 [
   [ "qpSWIFT", "index.html", [
     [ "Introduction", "index.html#intro_sec", null ],
+    [ "Download", "index.html#download_sec", null ],
     [ "Features", "index.html#feat_sec", null ],
     [ "Case Studies", "index.html#case_study", null ],
     [ "Future Updates", "index.html#updates", null ],
@@ -15,13 +38,12 @@ var NAVTREE =
         [ "Variables", "functions_vars.html", null ]
       ] ]
     ] ],
-    [ "Files", null, [
-      [ "File List", "files.html", "files" ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ],
       [ "Globals", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
-        [ "Typedefs", "globals_type.html", null ],
-        [ "Macros", "globals_defs.html", null ]
+        [ "Typedefs", "globals_type.html", null ]
       ] ]
     ] ]
   ] ]
@@ -29,8 +51,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"Auxilary_8c.html",
-"structstats.html#ae4e9705c5129cd61f1bf486d7704003b"
+"Auxilary_8c.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

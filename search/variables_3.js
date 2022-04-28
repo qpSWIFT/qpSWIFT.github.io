@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['d',['D',['../structkkt.html#a37038b739693aa6ad94e73f48913b765',1,'kkt::D()'],['../structkkt.html#a5fe8525ca71c603a4894de6dc6855262',1,'kkt::D()']]],
-  ['delta',['delta',['../structQP.html#a1bb152002731b25bfd81c4e243b9ef84',1,'QP::delta()'],['../structQP.html#a6d4c62d74c74a95589be9b6f9ce75393',1,'QP::delta()']]],
-  ['delta_5fs',['delta_s',['../structQP.html#a677c64d8659f48359dab09ed04012a46',1,'QP::delta_s()'],['../structQP.html#aec32bbb75df9a6119c0e7f1baa716f6f',1,'QP::delta_s()']]],
-  ['delta_5fx',['delta_x',['../structQP.html#ae60231da8a1ae573086596926818ab09',1,'QP::delta_x()'],['../structQP.html#a18e85ac2a1747138036ebd83e4d1d7cd',1,'QP::delta_x()']]],
-  ['delta_5fy',['delta_y',['../structQP.html#aaebef2d6b719ed9bec7c81b707769590',1,'QP::delta_y()'],['../structQP.html#ab07fa102ff899a63c4348394ad51fe62',1,'QP::delta_y()']]],
-  ['delta_5fz',['delta_z',['../structQP.html#a7c3995ebbeec9130267a7517bd6407ce',1,'QP::delta_z()'],['../structQP.html#a88a9947f1626e4ebeb1b709fabe6743a',1,'QP::delta_z()']]],
-  ['ds',['ds',['../structQP.html#a0e53f4fa649608a0e01f900fc3c9810f',1,'QP::ds()'],['../structQP.html#a64cb5765735cb4f23be89418d6bd9a1b',1,'QP::ds()']]]
+  ['d_176',['D',['../structkkt.html#ab3ffc2d0af46d1652b5222a5296faf32',1,'kkt']]],
+  ['delta_177',['delta',['../structQP.html#a54326b00c3da60f7f1a402c4923f3175',1,'QP']]],
+  ['delta_5fs_178',['delta_s',['../structQP.html#ae3efe75a353cc0cbf143864056a69480',1,'QP']]],
+  ['delta_5fx_179',['delta_x',['../structQP.html#a42279d0fa572df25f4a744dc90e3b040',1,'QP']]],
+  ['delta_5fy_180',['delta_y',['../structQP.html#a5ae57f711566a36cd8c25bacf74d6c78',1,'QP']]],
+  ['delta_5fz_181',['delta_z',['../structQP.html#a6714be954282af3ae00745bac1829073',1,'QP']]],
+  ['ds_182',['ds',['../structQP.html#a18f73096fcfdcf515b08dd4a9e546ed8',1,'QP']]]
 ];
